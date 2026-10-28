@@ -1,0 +1,58 @@
+[
+  {
+    "broken": [],
+    "contacts": true,
+    "overflow": [],
+    "scrollWidth": 320,
+    "width": 320,
+    "errors": []
+  },
+  {
+    "broken": [],
+    "contacts": true,
+    "overflow": [],
+    "scrollWidth": 390,
+    "width": 390,
+    "errors": []
+  },
+  {
+    "broken": [],
+    "contacts": true,
+    "overflow": [],
+    "scrollWidth": 540,
+    "width": 540,
+    "errors": []
+  },
+  {
+    "broken": [],
+    "contacts": true,
+    "overflow": [],
+    "scrollWidth": 768,
+    "width": 768,
+    "errors": []
+  },
+  {
+    "broken": [],
+    "contacts": true,
+    "overflow": [],
+    "scrollWidth": 1024,
+    "width": 1024,
+    "errors": []
+  },
+  {
+    "broken": [],
+    "contacts": true,
+    "overflow": [],
+    "scrollWidth": 1440,
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "broken": [],
+    "contacts": true,
+    "overflow": [],
+    "scrollWidth": 1920,
+    "width": 1920,
+    "errors": []
+  }
+]
